@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hola
-=======
-Repositorio clonado
->>>>>>> 2b201eefc2c9423caf57c85a13de4a67a03d8a57
+
+segundo commit en remoto

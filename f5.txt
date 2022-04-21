@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hola probando
+=======
+clonado de clase
+ hola hola
+>>>>>>> a0a1e86314161710ab0ccbd8eee4e3e2e410eb29

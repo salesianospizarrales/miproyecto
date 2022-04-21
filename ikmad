@@ -1,0 +1,36 @@
+[33mcommit 6be5712469f6aa6b877047a5b06098d1fc350e58[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtpm[m[33m)[m
+Merge: 918cdb1 2b201ee
+Author: Fernando <f.garcial@salesianospizarrales.educamos.com>
+Date:   Thu Apr 21 17:07:47 2022 +0200
+
+    hola
+
+[33mcommit 918cdb1182a9482cba0843f03da0a23d36db9db9[m
+Author: Fernando <f.garcial@salesianospizarrales.educamos.com>
+Date:   Thu Apr 21 17:05:43 2022 +0200
+
+    Hola
+
+[33mcommit 9f2c86e3435e4c8a733b2457a475155d449d6cbe[m
+Author: Fernando <f.garcial@salesianospizarrales.educamos.com>
+Date:   Thu Apr 21 16:54:45 2022 +0200
+
+    Commit de repositorio clonado con f4.txt
+
+[33mcommit 2b201eefc2c9423caf57c85a13de4a67a03d8a57[m[33m ([m[1;32mtmp[m[33m)[m
+Author: Alejandro Hoya <ahoya@salesianospizarrales.com>
+Date:   Thu Apr 21 16:54:17 2022 +0200
+
+    Commit de repositorio clonado con f4.txt
+
+[33mcommit 9281e352b2a2faf849609634fb2717fd713d301a[m
+Author: Alejandro Hoya <ahoya@salesianospizarrales.com>
+Date:   Thu Apr 21 16:36:10 2022 +0200
+
+    Segundo commit con f1.txt, f2.txt y f3.txt
+
+[33mcommit 58d07a1679fda05bc6145f0f3fa287d7d239902c[m
+Author: Alejandro Hoya <ahoya@salesianospizarrales.com>
+Date:   Thu Apr 21 16:35:18 2022 +0200
+
+    Primer commit con f1.txt y f2.txt

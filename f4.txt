@@ -12,4 +12,10 @@ se
 hola
 
 segundo commit en remoto
+<<<<<<< HEAD
 >>>>>>> a0a1e86314161710ab0ccbd8eee4e3e2e410eb29
+=======
+
+
+hola
+>>>>>>> cfee866c623114a59802fbf803c8dd26355c8180
